@@ -1,2 +1,2 @@
 # C-Mini-Projects
-Here , are some basic c programming  projects .
+Here , are some basic c and c++ programming  projects .
